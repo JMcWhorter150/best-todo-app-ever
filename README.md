@@ -1,3 +1,5 @@
+Names = Joe McWhorter and Wesley Ayer
+
 # Pairing exercise!
 
 Upgrade this code to use dictionaries for each todo.
